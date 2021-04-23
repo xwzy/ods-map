@@ -1,2 +1,2 @@
-# ods-mapobs-world
+# ods-map-world
 Order Dispatch Simulator 
