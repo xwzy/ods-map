@@ -72,4 +72,5 @@ struct Task {
     world_snapshot_store: WorldSnapshotStore,
     created_at: u64,
     updated_at: u64,
+    deleted_at: u64,
 }
