@@ -45,6 +45,9 @@ struct World {
     orders: Vec<Order>,
     riders: Vec<Rider>,
 }
+struct Action {
+
+}
 
 #[derive(Debug)]
 struct WorldSnapshot {
